@@ -1,0 +1,1 @@
+{"version":3,"sources":["Paginator.module.css","Users.module.css"],"names":[],"mappings":"AAAA,+BACI,eACJ,CCFA,qBACI,WAAY,CACZ,YACJ","file":"4.584a988a.chunk.css","sourcesContent":[".selectedPage {\n    font-weight: bold;\n}",".avatar {\n    width: 100px;\n    height: 100px;\n}\n"]}
