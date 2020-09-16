@@ -1,0 +1,12 @@
+.banner {
+    width: 100%;
+    height: 200px;
+}
+
+.descriptionBlock {
+    padding: 10px;
+}
+
+.descriptionBlock img{
+    width: 100px;
+}

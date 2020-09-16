@@ -1,0 +1,18 @@
+.sidebar {
+    grid-area: sidebar;
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+
+.item {
+    padding-bottom: 10px;
+}
+
+.item a{
+    color: black;
+    text-decoration: none;
+}
+
+.item a.activeLink{
+    color: aliceblue;
+}

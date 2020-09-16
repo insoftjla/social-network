@@ -1,0 +1,12 @@
+.fieldRender {}
+
+.fieldRender.error input,
+.fieldRender.error textarea
+{
+    border: solid red 1px;
+}
+
+.fieldRender.error span
+{
+    color: red;
+}
